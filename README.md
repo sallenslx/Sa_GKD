@@ -14,7 +14,7 @@
 接下来下载并初始化环境
 
 ```shell
-git clone [https://github.com/username/subscription](https://github.com/sallenslx/Sa_GKD)
+git clone https://github.com/sallenslx/Sa_GKD
 cd subscription
 pnpm install
 ```
@@ -37,7 +37,7 @@ pnpm install --registry=https://registry.npmmirror.com
 
 如果您无法初始化 nodejs 环境, 那可以直接使用 github 网页编辑文件后在线提交, 点击下面链接即可在线编辑
 
-<[https://github.com/username/subscription](https://github.com/sallenslx/Sa_GKD)/edit/main/src/subscription.ts>
+<https://github.com/sallenslx/Sa_GKD/edit/main/src/subscription.ts>
 
 ![image](https://e.gkd.li/bb539a50-cbdb-4fec-8a93-4a9c5d067de0)
 
