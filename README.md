@@ -9,12 +9,12 @@
 - pnpm>=9 <https://pnpm.io/zh/installation>
 - vscode <https://code.visualstudio.com>
 
-安装好后使用模板, 假设您刚刚使用 `Use this template` 创建的仓库是 `https://github.com/username/subscription`
+创建的仓库是 `https://github.com/sallenslx/Sa_GKD`
 
 接下来下载并初始化环境
 
 ```shell
-git clone https://github.com/username/subscription
+git clone [https://github.com/username/subscription](https://github.com/sallenslx/Sa_GKD)
 cd subscription
 pnpm install
 ```
@@ -37,7 +37,7 @@ pnpm install --registry=https://registry.npmmirror.com
 
 如果您无法初始化 nodejs 环境, 那可以直接使用 github 网页编辑文件后在线提交, 点击下面链接即可在线编辑
 
-<https://github.com/username/subscription/edit/main/src/subscription.ts>
+<[https://github.com/username/subscription](https://github.com/sallenslx/Sa_GKD)/edit/main/src/subscription.ts>
 
 ![image](https://e.gkd.li/bb539a50-cbdb-4fec-8a93-4a9c5d067de0)
 
